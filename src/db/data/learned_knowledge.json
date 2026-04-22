@@ -1,0 +1,38 @@
+[
+  {
+    "chatId": 1704767998,
+    "type": "style_preference",
+    "content": "Style preference user adalah casual",
+    "createdAt": "2026-04-06T12:26:15.012Z"
+  },
+  {
+    "chatId": 1704767998,
+    "type": "preference_statement",
+    "content": "Saya suka casual",
+    "createdAt": "2026-04-06T12:26:15.012Z"
+  },
+  {
+    "chatId": 1704767998,
+    "type": "budget",
+    "content": "Budget user adalah Rp85000",
+    "createdAt": "2026-04-06T12:30:42.257Z"
+  },
+  {
+    "chatId": 1704767998,
+    "type": "preference_statement",
+    "content": "Budget saya dibawah rp 85.000 dan saya suka warna hitam tolong rekomendasikan",
+    "createdAt": "2026-04-06T12:30:42.257Z"
+  },
+  {
+    "chatId": 1704767998,
+    "type": "style_preference",
+    "content": "Style preference user adalah casual",
+    "createdAt": "2026-04-06T12:41:44.215Z"
+  },
+  {
+    "chatId": 1704767998,
+    "type": "style_preference",
+    "content": "Style preference user adalah formal",
+    "createdAt": "2026-04-16T07:08:28.936Z"
+  }
+]

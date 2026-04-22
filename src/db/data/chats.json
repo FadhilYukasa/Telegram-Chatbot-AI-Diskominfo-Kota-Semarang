@@ -1,0 +1,254 @@
+[
+  {
+    "chatId": 1704767998,
+    "messageId": 3,
+    "role": "user",
+    "message": "Saya suka casual",
+    "createdAt": "2026-04-06T12:26:14.982Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Oke, saya mengerti Anda suka gaya casual.\n\nUntuk gaya casual, kami punya beberapa pilihan menarik:\n*   **Kaos Basic Putih** (Rp 85.000)\n*   **Kaos Basic Hitam** (Rp 90.000)\n*   **Hoodie Abu Unisex** (Rp 150.000)\n\nApakah ada yang ingin Anda lihat lebih detail?",
+    "createdAt": "2026-04-06T12:26:28.461Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 5,
+    "role": "user",
+    "message": "Budget saya dibawah rp 85.000 dan saya suka warna hitam tolong rekomendasikan",
+    "createdAt": "2026-04-06T12:30:42.249Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Baik, Anda mencari rekomendasi gaya casual, warna hitam, dengan budget di bawah Rp 85.000.\n\nKami memiliki **Kaos Basic Hitam** yang sesuai gaya casual dan warna hitam, namun harganya Rp 90.000. Ini sedikit di atas budget Anda yang di bawah Rp 85.000.\n\nApakah Anda bersedia untuk mempertimbangkan Kaos Basic Hitam ini, atau ada preferensi lain yang bisa kami bantu cari?",
+    "createdAt": "2026-04-06T12:30:56.312Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 7,
+    "role": "user",
+    "message": "/start",
+    "createdAt": "2026-04-06T12:34:11.165Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Halo! Selamat datang di toko pakaian kami. Saya asisten toko Anda di sini. Ada yang bisa saya bantu hari ini?",
+    "createdAt": "2026-04-06T12:34:14.113Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 9,
+    "role": "user",
+    "message": "apakah kamu kenal tuan muda singgih?",
+    "createdAt": "2026-04-06T12:34:34.456Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Mohon maaf, sebagai asisten toko pakaian, saya hanya memiliki informasi terkait produk dan layanan toko kami. Saya tidak mengenal Tuan Muda Singgih. Ada yang bisa saya bantu terkait toko kami?",
+    "createdAt": "2026-04-06T12:34:36.576Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 11,
+    "role": "user",
+    "message": "nub",
+    "createdAt": "2026-04-06T12:34:41.437Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Maaf, saya tidak mengerti maksud \"nub\". Bisakah Anda jelaskan lebih lanjut atau ada yang bisa saya bantu terkait produk atau layanan toko kami?",
+    "createdAt": "2026-04-06T12:34:43.666Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 13,
+    "role": "user",
+    "message": "apakah kamu punya kaos hitam polos ukuran L?",
+    "createdAt": "2026-04-06T12:35:20.633Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Mohon maaf, kami tidak memiliki kaos hitam polos ukuran L saat ini. Kami punya Kaos Basic Hitam ukuran M.",
+    "createdAt": "2026-04-06T12:35:23.816Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 15,
+    "role": "user",
+    "message": "basic hitam ukuran M harga berapa?",
+    "createdAt": "2026-04-06T12:35:35.775Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Kaos Basic Hitam ukuran M harganya Rp 90.000.",
+    "createdAt": "2026-04-06T12:35:37.918Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": 17,
+    "role": "user",
+    "message": "gelooooo wenyah",
+    "createdAt": "2026-04-06T12:38:15.518Z"
+  },
+  {
+    "chatId": 1470329180,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Saya mengerti. Apakah ada produk lain yang ingin Anda lihat atau mungkin ada kisaran harga yang Anda cari?",
+    "createdAt": "2026-04-06T12:38:20.085Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 19,
+    "role": "user",
+    "message": "rekomendasi baju perempual gaya casual warna hitam",
+    "createdAt": "2026-04-06T12:41:44.201Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Untuk rekomendasi baju perempuan gaya casual warna hitam, kami memiliki **Kaos Basic Hitam**.\n\n*   **Kaos Basic Hitam** (Rp 90.000) - Cocok untuk gaya casual dan tersedia warna hitam.\n\nHarga ini sedikit di atas budget Anda yang di bawah Rp 85.000. Apakah Anda tertarik dengan Kaos Basic Hitam ini, atau ada preferensi lain?",
+    "createdAt": "2026-04-06T12:41:49.753Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 21,
+    "role": "user",
+    "message": "Rekomendasi baju dihargai 100 ribu",
+    "createdAt": "2026-04-07T03:58:59.257Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Baik, untuk rekomendasi baju dengan budget hingga Rp 100.000 dan gaya casual, kami memiliki pilihan berikut:\n\n*   **Kaos Basic Putih** (Rp 85.000)\n*   **Kaos Basic Hitam** (Rp 90.000)\n\nKaos Basic Hitam juga sesuai dengan preferensi warna hitam Anda sebelumnya.",
+    "createdAt": "2026-04-07T03:59:03.602Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 23,
+    "role": "user",
+    "message": "Rekomendasi baju perempuan yang cocok untuk berangkat ke kampus",
+    "createdAt": "2026-04-07T04:04:37.203Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Baik, untuk rekomendasi baju perempuan gaya casual yang cocok untuk berangkat ke kampus, kami memiliki pilihan ini:\n\n*   **Kaos Basic Putih** (Rp 85.000)\n*   **Kaos Basic Hitam** (Rp 90.000)\n\nKedua kaos ini cocok untuk gaya casual dan sesuai dengan budget yang Anda sebutkan sebelumnya hingga Rp 100.000. Kaos Basic Hitam juga sesuai dengan preferensi warna hitam Anda sebelumnya.",
+    "createdAt": "2026-04-07T04:05:00.656Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": 25,
+    "role": "user",
+    "message": "/start",
+    "createdAt": "2026-04-07T04:31:10.677Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Halo! Selamat datang di toko pakaian kami. Saya adalah asisten virtual Anda di Telegram.\n\nAda yang bisa saya bantu hari ini? Misalnya, Anda bisa bertanya tentang katalog produk, promo, atau rekomendasi pakaian.",
+    "createdAt": "2026-04-07T04:31:13.965Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": 26,
+    "role": "user",
+    "message": "rekomendasi baju yang cocok untuk pergi ke kampus buat perempuan",
+    "createdAt": "2026-04-07T04:31:14.344Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Untuk pergi ke kampus, kami merekomendasikan:\n\n*   **Hoodie Abu Unisex** (Rp 150.000): Nyaman untuk hangout dan kegiatan kampus.\n*   **Kemeja Oxford Putih** (Rp 165.000): Pilihan smart-casual yang serbaguna.",
+    "createdAt": "2026-04-07T04:31:25.444Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": 29,
+    "role": "user",
+    "message": "kalo bisa yang berkerah, dan mix and match jg sama hijab nya",
+    "createdAt": "2026-04-07T04:36:16.746Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Untuk opsi berkerah yang bisa dipadukan dengan hijab, kami merekomendasikan:\n\n*   **Kemeja Formal Biru** (Rp 175.000): Kemeja ini memiliki kerah, cocok untuk tampilan smart-casual yang rapi di kampus dan mudah dipadukan dengan berbagai gaya hijab Anda.",
+    "createdAt": "2026-04-07T04:36:27.611Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": 31,
+    "role": "user",
+    "message": "warna hijab nya apa? hitam? atau lebih cocok warna cream biskuit?",
+    "createdAt": "2026-04-07T04:37:28.524Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Baik warna hitam maupun cream biskuit adalah pilihan netral yang serbaguna. Keduanya bisa cocok dengan Kemeja Formal Biru, tergantung pada preferensi gaya Anda.",
+    "createdAt": "2026-04-07T04:37:34.568Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": 33,
+    "role": "user",
+    "message": "kalo hijab hitam, celananya warna apa? dan kalo hijab nya cream, celananya warna apa?",
+    "createdAt": "2026-04-07T04:39:45.014Z"
+  },
+  {
+    "chatId": 6437394162,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Tentu, ini beberapa saran padu padan warna celana:\n\n*   **Jika hijab hitam:** Celana warna hitam, abu-abu, atau denim gelap (misalnya biru navy) akan cocok untuk tampilan yang rapi dan elegan.\n*   **Jika hijab cream biskuit:** Celana warna cream/beige, putih, abu-abu muda, atau denim biru terang akan memberikan kesan lembut dan serasi.",
+    "createdAt": "2026-04-07T04:39:49.115Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 35,
+    "role": "user",
+    "message": "Untuk celana pria yang cocok berangkat ke kampus formal apakah ada rekomendasi?",
+    "createdAt": "2026-04-16T07:08:28.894Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Untuk celana pria gaya formal yang cocok berangkat ke kampus, kami memiliki **Celana Bahan Hitam**.\n\nCelana Bahan Hitam ini harganya Rp 210.000. Harga ini di atas budget Anda yang sebelumnya disebutkan. Kami belum memiliki opsi celana pria formal lain yang sesuai dengan budget Anda.",
+    "createdAt": "2026-04-16T07:08:46.930Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": 37,
+    "role": "user",
+    "message": "Untuk baju/atasan cewek apakah ada rekomendasi?",
+    "createdAt": "2026-04-16T07:11:40.559Z"
+  },
+  {
+    "chatId": 1704767998,
+    "messageId": null,
+    "role": "assistant",
+    "message": "Untuk baju/atasan cewek, dengan budget Anda sebesar Rp 85.000 dan preferensi gaya formal, kami memiliki **Kaos Basic Putih** (Rp 85.000).\n\nKaos ini bergaya casual, dan sesuai dengan budget Anda. Untuk atasan cewek dengan gaya formal, saat ini kami belum memiliki pilihan yang sesuai dengan budget Rp 85.000.",
+    "createdAt": "2026-04-16T07:11:51.627Z"
+  }
+]
